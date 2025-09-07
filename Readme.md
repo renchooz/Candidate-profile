@@ -44,7 +44,7 @@ This project is built using **React, Tailwind CSS, Node.js, Express, and MongoDB
 
 1. Clone the repository and navigate to backend:
    ```bash
-   git clone <repo_url>
+   git clone <[repo_url](https://github.com/renchooz/Candidate-profile)>
    cd candidate-playground/backend
 
 2. Install dependencies:
