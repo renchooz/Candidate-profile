@@ -8,7 +8,7 @@ This project is built using **React, Tailwind CSS, Node.js, Express, and MongoDB
 
 ## **Live Demo**
 
-> *Optional: Add frontend deployment link here if hosted*
+> *https://candidate-profile-1.onrender.com/*
 
 ---
 
@@ -50,7 +50,7 @@ This project is built using **React, Tailwind CSS, Node.js, Express, and MongoDB
 2. Install dependencies:
    npm install
 
-3.Create a .env file in the backend root:
+3. Create a .env file in the backend root:
   PORT=5000
   MONGO_URI=mongodb://localhost:27017/candidate_playground  
 
