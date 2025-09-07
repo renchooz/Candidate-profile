@@ -69,7 +69,7 @@ This project is built using **React, Tailwind CSS, Node.js, Express, and MongoDB
 3. npm start   
 
 
-#Schema
+# Schema
 import mongoose from "mongoose";
 
 const EducationSchema = new mongoose.Schema(
